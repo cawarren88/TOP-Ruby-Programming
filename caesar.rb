@@ -28,4 +28,4 @@ def caesar_cipher(phrase, key)
   puts cipher_message.join('')
 end
 
-caesar_cipher("This is my test phrase: ABCD", (26*3+2))
+caesar_cipher("This is my test phrase: ABCD", (2))
